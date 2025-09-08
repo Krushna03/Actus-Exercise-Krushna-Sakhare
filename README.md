@@ -7,6 +7,6 @@ A React component that fetches and displays random user data from the [RandomUse
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/userprofile-component.git
+git clone https://github.com/Krushna03/Actus-Exercise-Krushna-Sakhare.git
 npm install
 npm run dev
